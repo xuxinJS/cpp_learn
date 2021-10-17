@@ -1,2 +1,2 @@
 # cpp_learn
-c++ primer plus learning
+c++ learning
